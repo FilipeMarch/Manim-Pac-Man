@@ -8,5 +8,8 @@ Obviously the main consequence of it is that we can create games using MANIM!
 In case you want to play my `Pac-Man` game, open the terminal and run `python run_game.py`.
 
 
-https://user-images.githubusercontent.com/23220309/175122270-d82cf1d3-04e8-4117-85b3-e18d26bd6c99.mp4
+
+https://user-images.githubusercontent.com/23220309/175123051-ae1af210-9e29-4ca7-a18e-55a11d7dc172.mp4
+
+
 
