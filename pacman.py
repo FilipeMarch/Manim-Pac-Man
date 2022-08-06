@@ -1,3 +1,8 @@
+from manim import *
+import random
+import pyglet
+from pyglet.window import key as pyglet_key
+
 class PacmanGame(Scene):
     def construct(self):
         # Pacman is going right by default
