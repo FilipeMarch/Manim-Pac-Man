@@ -1,3 +1,5 @@
+from manim import *
+
 class PacmanGame(Scene):
     def construct(self):
         # Pacman is going right by default
